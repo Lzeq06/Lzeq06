@@ -66,6 +66,3 @@
 ###
 
 
-<img src="https://raw.githubusercontent.com/Lzeq06/Lzeq06/output/snake.svg" alt="Snake animation" />
-
-###
