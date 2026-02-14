@@ -11,11 +11,9 @@
 
   <!-- Descrição profissional -->
   <p align="center">
-    <b>Full-Stack Developer</b> focused on clean architecture, relational database modeling and management,<br>
-    front-end and back-end integration, API consumption and development, version control,
-    and code organization best practices.<br>
-    Dedicated to building complete web systems with an emphasis on efficient, scalable,
-    and well-documented solutions.
+    <b>Software Development student</b> with a focus on clean architecture, relational database modelling and full-stack development.<br>
+    I am constantly improving my skills in building complete web systems, from conception to implementation, with an emphasis on code best practices, version control, and front-end and back-end integration.<br> Driven by technical challenges and a desire to build efficient, scalable, and well-documented solutions.
+
   </p>
   
 </div>
