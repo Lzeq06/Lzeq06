@@ -25,13 +25,13 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/luara-zequini-3b97a5324" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="30" />
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="35" />
     </a>
     <a href="mailto:luarazequini5@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="30" />
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="35" />
     </a>
     <a href="https://luarazequini.dev" target="_blank">
-      <img src="https://github.com/Lzeq06/README/blob/main/portifolioweb.svg" width="30" />
+      <img src="https://github.com/Lzeq06/README/blob/main/portifolioweb.svg" width="35" />
     </a>
   </p>
   
@@ -43,9 +43,9 @@
   ### ⚡ Core Technologies
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,php,py,cs,dotnet,html,css,mysql,git,github,vscode,visualstudio,figma&theme=dark" />
-    <img src="https://github.com/Lzeq06/README/blob/main/Power-BI.svg" height="45" />
-    <img src="https://github.com/Lzeq06/README/blob/main/excel.svg" height="45" />
+    <img src="https://skillicons.dev/icons?i=js,php,py,cs,dotnet,html,css,mysql,git,github,vscode,visualstudio,figma&theme=dark" height="35" />
+    <img src="https://github.com/Lzeq06/README/blob/main/Power-BI.svg" height="35" />
+    <img src="https://github.com/Lzeq06/README/blob/main/excel.svg" height="35" />
   </p>
 
   <!-- ANIMAÇÃO DAS LINGUAGENS (CORRIGIDA) -->
@@ -61,12 +61,12 @@
   ### 📊 GitHub Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lzeq06&show_icons=true&hide_border=true&title_color=2ECC71&icon_color=2ECC71&text_color=9f9f9f&bg_color=0d1117" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lzeq06&show_icons=true&hide_border=true&title_color=2ECC71&icon_color=2ECC71&text_color=#0f1a2c&bg_color=0d1117" height="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzeq06&layout=compact&hide_border=true&title_color=2ECC71&text_color=9f9f9f&bg_color=0d1117" height="165" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lzeq06&hide_border=true&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&background=0d1117&stroke=2ECC71&dates=9f9f9f" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lzeq06&hide_border=false&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&currStreakNum=2ECC71&sideLabels=2ECC71&sideNums=2ECC71&background=000000&border=2ECC71&stroke=2ECC71&dates=98FB98" width="70%" />
   </p>
   
 </div>
