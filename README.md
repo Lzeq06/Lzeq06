@@ -56,37 +56,7 @@
   
 </div>
 
-<!-- GitHub Stats -->
-<div align="center">
   
-  ### 📊 GitHub Stats
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lzeq06&show_icons=true&hide_border=true&title_color=2ECC71&icon_color=2ECC71&text_color=#0f1a2c&bg_color=0d1117" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzeq06&layout=compact&hide_border=true&title_color=2ECC71&text_color=9f9f9f&bg_color=0d1117" height="165" />
-  </p>
-
-  <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lzeq06&hide_border=false&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&currStreakNum=2ECC71&sideLabels=2ECC71&sideNums=2ECC71&background=000000&border=2ECC71&stroke=2ECC71&dates=98FB98" width="70%" />
-  </p>
-  
-</div>
-
-<!-- Achievements -->
-<div align="center">
-  
-  ### 🏆 Achievements
-
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lzeq06&theme=dark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title_color=2ECC71" width="90%" />
-  </p>
-  
-</div>
-
-<!-- Contribution Graph -->
-<div align="center">
-  
-  ### 📈 Contribution Graph
 
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lzeq06&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=2ECC71&line=2ECC71&point=2ECC71" width="100%" />
@@ -97,10 +67,27 @@
 <!-- Top Languages (alternativo) -->
 <div align="center">
   
-  ### 💻 Top Languages
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzeq06&layout=donut&hide_border=true&title_color=2ECC71&text_color=2ECC71&bg_color=0d1117" width="400" />
-  </p>
-  
+
+
+
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lzeq06&show_icons=true" width="400"/>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
