@@ -56,12 +56,13 @@
   
 </div>
 
-  
 
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lzeq06&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=2ECC71&line=2ECC71&point=2ECC71" width="80%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lzeq06&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=2ECC71&line=2ECC71&point=2ECC71" width="85%" />
   </p>
   
 </div>
+
+
 
 
