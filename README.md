@@ -59,15 +59,9 @@
   
 
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lzeq06&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=2ECC71&line=2ECC71&point=2ECC71" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lzeq06&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=2ECC71&line=2ECC71&point=2ECC71" width="80%" />
   </p>
   
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Lzeq06&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
-
 </div>
 
 
