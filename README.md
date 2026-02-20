@@ -6,9 +6,9 @@
   <h1> Luara Zequini</h1>
   
   <!-- Título com animação verde -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Database+Modeling;Front-end+%7C+Back-end;API+Development" alt="Typing SVG" />
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Database+Modeling;Front-end+%7C+Back-end;API+Development" />
+</div>
 
   <!-- Descrição profissional -->
   <p align="center">
