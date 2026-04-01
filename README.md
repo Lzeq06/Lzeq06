@@ -4,13 +4,13 @@
   <h1>Luara Zequini</h1>
 
   <!-- Animação -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Software+Developer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Desenvolvedora+de+Software;" />
 
   <p>
-    Software Development student focused on building <b>complete and well-structured systems</b>.<br>
-    My work combines <b>back-end logic, front-end interfaces and data analysis</b>, always aiming for clear architecture and maintainable code.<br><br>
-    I enjoy exploring how different technologies solve the same problem — developing projects using <b>Java, Python and JavaScript</b> to deepen my understanding of programming concepts.<br><br>
-    Currently focused on <b>full-stack development, database modeling and data visualization</b>, using tools like Power BI to transform data into insights.
+    Estudante de Desenvolvimento de Software focada em construir <b>sistemas completos e bem estruturados</b>.<br>
+    Meu trabalho combina <b>lógica de back-end, interfaces front-end e análise de dados</b>, sempre buscando arquitetura clara e código de fácil manutenção.<br><br>
+    Gosto de explorar como diferentes tecnologias resolvem o mesmo problema — desenvolvendo projetos com <b>Java, Python e JavaScript</b> para aprofundar meu entendimento dos conceitos de programação.<br><br>
+    Atualmente focada em <b>desenvolvimento full-stack, modelagem de banco de dados e visualização de dados</b>, utilizando ferramentas como Power BI para transformar dados em insights.
   </p>
 
 </div>
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### Connect with me
+### Conecte-se comigo
 
 <p>
   <a href="https://www.linkedin.com/in/luara-zequini-3b97a5324" target="_blank">
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-### Technologies
+### Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,py,html,css,git,github,vscode,figma&theme=dark" height="35" />
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-### Activity
+### Atividade
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lzeq06&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=2ECC71&line=2ECC71&point=2ECC71" width="85%" />
 
